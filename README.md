@@ -1,8 +1,11 @@
 # Basic-mobile-and-web-layout
+
 Name : K.Mohamed Althaf
+
 Reg. no: 212224240089
 
 AIM:
+
 a. Apply Gestalt principles to enhance mobile and web layout design.
 
 b. Incorporate UI elements and design patterns into the layouts.
@@ -23,6 +26,7 @@ SCREENSHOTS:
 ![1 9](https://github.com/user-attachments/assets/ae01b2f0-2362-497c-9cd5-66860a4d6c38)
 
 RESULT:
+
 Thus, the experiment was completed successfully.
 
 
